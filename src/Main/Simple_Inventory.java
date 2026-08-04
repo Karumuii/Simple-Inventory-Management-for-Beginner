@@ -317,7 +317,6 @@ public class Simple_Inventory extends javax.swing.JFrame {
         price.setText("");
         quantity.setText("");
     }
-// Ang keyword mao ang imong gi type
 
     private void searchh() {
         DefaultTableModel model = (DefaultTableModel) tbl.getModel();
